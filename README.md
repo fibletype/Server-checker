@@ -1,6 +1,6 @@
 # Server checker
 
-## About cript
+## About script
 This script sends an SMS if the site is unavailable
 
 ## How it works
